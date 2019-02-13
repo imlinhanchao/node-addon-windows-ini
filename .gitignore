@@ -1,0 +1,5 @@
+build/
+package-lock.json
+*.ini
+.vscode
+node_modules
